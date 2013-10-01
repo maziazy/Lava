@@ -1,0 +1,31 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	
+	background: #444;
+	
+	color: #ffd;
+	font-size: 16pt;
+	font-family: Consolas;
+}
+
+#canvas {
+	
+}
+
+#FPS_Box {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	
+	text-shadow: 0px 0px 5px #000;
+}
+
+svg {
+	margin: auto;
+	display: block;
+	
+	background: #333;	
+	box-shadow: 0px 0px 15px #000;
+}
